@@ -14,6 +14,10 @@
 
 
 <div align="center">
+  
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=NaranggeSaida)](https://github.com/NaranggeSaida/github-readme-stats)
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NaranggeSaida)](https://github.com/NaranggeSaida/github-readme-stats)
 
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api?username=NaranggeSaida&theme=tokyonight&show_icons=true" width="53%" />
