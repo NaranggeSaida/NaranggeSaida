@@ -10,16 +10,22 @@
   - Member of 💻[Turing](https://www.notion.so/Turing-28799e16e71a4738b9bd6318a29c0e7f)
 
 - 📬 Contact me : 
-  - 2000dnjswns@naver.com
+  - ✉️2000dnjswns@naver.com
 
+- 🐈‍⬛Github status :
 
 <div align="center">
-  
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=NaranggeSaida)](https://github.com/NaranggeSaida/github-readme-stats) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NaranggeSaida&layout=compact)](https://github.com/NaranggeSaida/github-readme-stats)
 
-  
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=NaranggeSaida&line_height=40)](https://github.com/NaranggeSaida/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NaranggeSaida&layout=demo)](https://github.com/NaranggeSaida/github-readme-stats)
+
+</div>
+
+- ✅Baekjoon OnlineJudge status :
+
+<div align="center">
+
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=NaranggeSaida)](https://solved.ac/naranggesaida)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=NaranggeSaida&theme=cold)
-  
+
 </div>
