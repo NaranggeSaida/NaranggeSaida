@@ -15,16 +15,9 @@
 
 <div align="center">
   
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=NaranggeSaida)](https://github.com/NaranggeSaida/github-readme-stats)
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NaranggeSaida)](https://github.com/NaranggeSaida/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=NaranggeSaida)](https://github.com/NaranggeSaida/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NaranggeSaida&layout=compact)](https://github.com/NaranggeSaida/github-readme-stats)
 
-<a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=NaranggeSaida&theme=tokyonight&show_icons=true" width="53%" />
-</a>
-<a href="s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaranggeSaida&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" width="40%" />
-</a>
   
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=NaranggeSaida)](https://solved.ac/naranggesaida)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=NaranggeSaida&theme=cold)
