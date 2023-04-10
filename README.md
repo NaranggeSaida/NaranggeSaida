@@ -8,13 +8,9 @@
   - Undergraduate student of 📐[Mathematics](https://math.sogang.ac.kr/math/index_new.html) and 💾[Computer Engineering](https://cs.sogang.ac.kr/cs/index_new.html) Double Major in 🏫[Sogang University](https://www.sogang.ac.kr/index.do)
   - Member of ⌨️[SGCC](http://sgcc.me/)
   - Member of 💻[Turing](https://www.notion.so/Turing-28799e16e71a4738b9bd6318a29c0e7f)
-
-  # 
   
 - 📬 Contact me : 
-  - ✉️2000dnjswns@naver.com
-
-  #
+  - ✉️2000dnjswns@naver.com  
   
 - 🐈‍⬛Github status :
 
@@ -24,8 +20,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NaranggeSaida&layout=compact)](https://github.com/NaranggeSaida/github-readme-stats)
 
 </div>
-
-  #
 
 - ✅Baekjoon OnlineJudge status :
 
