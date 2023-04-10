@@ -12,7 +12,7 @@
 - 📬 Contact me : 
   - ✉️2000dnjswns@naver.com  
   
-- 🐈‍⬛Github status :
+- 🐈‍⬛ Github status :
 
 <div align="center">
 
@@ -21,7 +21,7 @@
 
 </div>
 
-- ✅Baekjoon OnlineJudge status :
+- ✅ Baekjoon OnlineJudge status :
 
 <div align="center">
 
