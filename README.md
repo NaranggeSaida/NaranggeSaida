@@ -5,7 +5,8 @@
 </div>
 
 - 🌱 Current Status :
-  - Undergraduate student of 📐[Mathematics](https://math.sogang.ac.kr/math/index_new.html) and 💾[Computer Engineering](https://cs.sogang.ac.kr/cs/index_new.html) Double Major in 🏫[Sogang University](https://www.sogang.ac.kr/index.do)
+  - Undergraduate student of 📐[Mathematics](https://math.sogang.ac.kr/math/index_new.html) and 💾[Computer Engineering](https://cs.sogang.ac.kr/cs/index_new.html) 
+  in 🏫[Sogang University](https://www.sogang.ac.kr/index.do)
   - Member of ⌨️[SGCC](http://sgcc.me/)
   - Member of 💻[Turing](https://www.notion.so/Turing-28799e16e71a4738b9bd6318a29c0e7f)
   
