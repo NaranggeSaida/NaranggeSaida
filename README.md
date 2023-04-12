@@ -4,7 +4,7 @@
   
 </div>
 
-- 🌱 Current Status :aa
+- 🌱 Current Status :
   - Undergraduate student of 📐[Mathematics](https://math.sogang.ac.kr/math/index_new.html) and 💾[Computer Engineering](https://cs.sogang.ac.kr/cs/index_new.html) 
   in 🏫[Sogang University](https://www.sogang.ac.kr/index.do)
   - Member of ⌨️[SGCC](http://sgcc.me/)
