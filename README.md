@@ -11,7 +11,7 @@
   - Member of 💻[Turing](https://www.notion.so/Turing-28799e16e71a4738b9bd6318a29c0e7f)
   
 - 📬 Contact me : 
-  - ✉️2000@naver.com  
+  - ✉️2000dnjswns@naver.com  
   
 - 🐈‍⬛ Github status :
 
