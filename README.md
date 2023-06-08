@@ -10,11 +10,24 @@
   - Member of ⌨️[SGCC](http://sgcc.me/)
   - Member of 💻[Turing](https://www.notion.so/Turing-28799e16e71a4738b9bd6318a29c0e7f)
   
-- 📬 Contact me : 
+- ⚒️ Tech Stack :
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white">
+<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white">
+<img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white">
+  
+</div>
+
+
+- 📬 Contact Me : 
   - ✉️2000dnjswns@naver.com  
   
 <!--
-- 🐈‍⬛ Github status :
+- 🐈‍⬛ Github Status :
 
 <div align="center">
 
@@ -24,7 +37,7 @@
 </div>
 -->
 
-- ✅ Baekjoon OnlineJudge status :
+- ✅ Baekjoon OnlineJudge Status :
 
 <div align="center">
 
