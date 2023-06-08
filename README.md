@@ -13,6 +13,7 @@
 - 📬 Contact me : 
   - ✉️2000dnjswns@naver.com  
   
+<!--
 - 🐈‍⬛ Github status :
 
 <div align="center">
@@ -21,6 +22,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NaranggeSaida&layout=compact)](https://github.com/NaranggeSaida/github-readme-stats)
 
 </div>
+-->
 
 - ✅ Baekjoon OnlineJudge status :
 
