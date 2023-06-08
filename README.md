@@ -17,7 +17,7 @@
 
 <div align="center">
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=NaranggeSaida)](https://github.com/NaranggeSaida/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=NaranggeSaida&line_height=20)](https://github.com/NaranggeSaida/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NaranggeSaida&layout=compact)](https://github.com/NaranggeSaida/github-readme-stats)
 
 </div>
